@@ -1,0 +1,35 @@
+.svgBlock {
+  background-color: #ccc;
+  padding: 20px;
+  height: 400px;
+}
+
+.listBlock {
+  background-color: #aaa;
+  height: 400px;
+  padding: 20px;
+  .row{
+    margin-bottom: 20px;
+    .right{
+      text-align: right;
+    }
+  }
+}
+
+.infoPanelList {
+  cursor: pointer;
+  padding: 10px 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+  &:not(:last-child) {
+    border-bottom: 1px solid #000;
+  }
+
+  div {
+    span {
+      margin-right: 10px;
+    }
+  }
+}
