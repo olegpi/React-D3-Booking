@@ -1,3 +1,8 @@
+#Screenshot
+
+![screenshot](https://user-images.githubusercontent.com/14134220/59480620-4e504000-8e2f-11e9-9b21-3d1e138358c6.gif)
+
+
 # Description #
 
 Send request to the server, receive response, with description what should draw on the SVG (status, type of shape, position, size etc. )
