@@ -15,7 +15,7 @@ Send request to the server, receive response, with description what should draw 
          "positionY":"100",
          "radius":"60"
       },
-	   "id":"1",
+      "id":"1",
       "status":"busy"
    },
    ...
