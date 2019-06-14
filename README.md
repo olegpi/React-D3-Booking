@@ -21,7 +21,7 @@ Send request to the server, receive response, with description what should draw 
    ...
 ```
 There is **'Panel SVG'**, where drawing dynamic shapes, on the left panel.\
-There is **'Panel Filter Buttons'** and list of shapes on the right panel.\
+There is **'Panel Filter Buttons'** and list of shapes on the right panel.
 
 Clicked on the Button in **'Panel Filter Buttons'** customer can choose shapes which have same status (busy, booking, free)  and do filtering list of shapes by **STATUS**.\
 Clicked on the shape in **'Panel SVG'** customer do filtering list of shapes by **ID.**
